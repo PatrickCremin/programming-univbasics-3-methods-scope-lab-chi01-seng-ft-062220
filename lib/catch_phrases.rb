@@ -14,4 +14,7 @@ def link
 end
 
 def all_phrases
-  
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This."
+end
